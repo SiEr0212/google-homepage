@@ -1,0 +1,57 @@
+body {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 14px;
+    color: black;
+    background-color: white
+    margin: 20px;
+    padding: 0;
+}
+
+/* Google-Search */
+
+p {
+    line-height: 21px;
+}
+
+h1 {
+    color: white
+    background-color: white;
+    font-size: 2em;
+    margin: 0;
+    margin-bottom: 7px;
+    padding: 4px;
+    font-style: italic;
+    text-align: center;
+    letter-spacing: 0.5em;
+    
+      }
+      
+      .child {
+        width: 300px;
+        height: 100px;
+        padding: 20px;
+      
+        position: absolute;
+        top: 50%;
+        left: 50%;
+      
+        margin: -70px 0 0 -170px;
+      }
+    
+}
+.parent {
+    position: relative;
+  }
+  
+  .child {
+    width: 300px;
+    height: 100px;
+    padding: 20px;
+  
+    position: absolute;
+    top: 50%;
+    left: 50%;
+  
+    margin: -70px 0 0 -170px;
+  }
+
